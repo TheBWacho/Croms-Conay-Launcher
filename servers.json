@@ -1,74 +1,15 @@
 [
     {
-        "file": "halcyon",
-        "name": "Halcyon D&D"
+        "file": "cromsdesolatelands",
+        "name": "Crom's Desolate Lands"
     },
     {
-        "file": "crossroads",
-        "name": "Crossroads"
+        "file": "cromsnothome",
+        "name": "Crom's Not Home"
     },
     {
-        "file": "chains",
-        "name": "Chains of Hyboria"
+        "file": "cromsvanillacookies",
+        "name": "Crom's Vanilla Cookies"
     },
-    {
-        "file": "esc",
-        "name": "Elder Scrolls: Chronicles"
-    },
-    {
-        "file": "wod",
-        "name": "World of Darkness: City of Spires"
-    },
-    {
-        "file": "tyranny",
-        "name": "Lands of Tyranny"
-    },
-    {
-        "file": "aloria",
-        "name": "Aloria Legends"
-    },
-    {
-        "file": "ashbornel",
-        "name": "Ashborn Legacy - Exiled Lands"
-    },
-    {
-        "file": "ashbornsiptah",
-        "name": "Ashborn Legacy - Siptah"
-    },
-    {
-        "file": "isleofarcanum",
-        "name": "Isle of Arcanum"
-    },
-    {
-        "file": "mainspring",
-        "name": "Mainspring"
-    },
-    {
-        "file": "mortalmemories",
-        "name": "Mortal Memories"
-    },
-    {
-        "file": "newhorizons",
-        "name": "New Horizons"
-    },
-    {
-        "file": "oblivion",
-        "name": "Oblivion"
-    },
-    {
-        "file": "oldguard",
-        "name": "Old Guard D&D"
-    },
-    {
-        "file": "outlands",
-        "name": "OutlandsRP"
-    },
-    {
-        "file": "veilofsouls",
-        "name": "Veil of Souls"
-    },
-    {
-        "file": "wildheart",
-        "name": "The Wildheart"
-    }
+    
 ]
